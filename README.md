@@ -1,6 +1,6 @@
 # Poznan
 
-This is the repository for the Poznan chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/poznan/blob/master/code-of-conduct.md).
+This is the repository for the Poznan chapter of Papers We Love (https://paperswelove.org). As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/poznan/blob/master/code-of-conduct.md).
 
 During the meetings, a speaker presents one computer science paper. The presentation is followed by a discussion with the attendees about the concepts described in the paper and their practical usage in our daily work.
 
@@ -27,3 +27,5 @@ TBD
 ### Contact
 
 Bartosz Mikulski (https://mikulskibartosz.name) (https://twitter.com/mikulskibartosz) (https://www.linkedin.com/in/mikulskibartosz/)
+
+`#poznan_poland` channel in the offical Slack: http://papersweloveslack.herokuapp.com/
