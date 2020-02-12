@@ -6,6 +6,8 @@ During the meetings, a speaker presents one computer science paper. The presenta
 
 Attendees are encouraged, but not required, to read the paper before the meeting.
 
+**Meetup page: https://www.meetup.com/PWLPoznan/**
+
 ### Want to Present?
 
 Please send a message to the origanizer (Twitter, LinkedIn) or open an issue in this repository.
